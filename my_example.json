@@ -1,12 +1,12 @@
 {
-  "name": "John Smith",
-  "email": "johnsmith@example.com",
-  "age": 32,
+  "name": "Jane Smith",
+  "email": "janesmith@example.com",
+  "age": 28,
   "address": {
-    "street": "456 Elm St",
-    "city": "Newville",
-    "zipcode": "54321"
+    "street": "789 Oak Ave",
+    "city": "Greenville",
+    "zipcode": "98765"
   },
-  "interests": ["coding", "reading", "traveling", "hiking"]
+  "interests": ["coding", "reading", "traveling", "hiking", "painting"]
 }
 
