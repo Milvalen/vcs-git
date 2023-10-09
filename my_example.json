@@ -1,11 +1,12 @@
 {
-  "name": "John Doe",
-  "email": "johndoe@example.com",
-  "age": 30,
+  "name": "John Smith",
+  "email": "johnsmith@example.com",
+  "age": 32,
   "address": {
-    "street": "123 Main St",
-    "city": "Sampletown",
-    "zipcode": "12345"
+    "street": "456 Elm St",
+    "city": "Newville",
+    "zipcode": "54321"
   },
-  "interests": ["coding", "reading", "traveling"]
+  "interests": ["coding", "reading", "traveling", "hiking"]
 }
+
