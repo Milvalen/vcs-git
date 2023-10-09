@@ -1,32 +1,14 @@
-Title: This is a sample text document.
+This is a sample text document.
 
-Section 1: Introduction
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-- Integer nec odio.
-- Praesent libero.
-- Sed cursus ante dapibus diam.
-- Sed nisi.
-- Nulla quis sem at nibh elementum imperdiet.
-- Duis sagittis ipsum.
-- Praesent mauris.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris.
 
-Section 2: Body
-- Vivamus elementum semper nisi.
-- Aenean vulputate eleifend tellus.
-- Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim.
+Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim.
 
 Updated text: This is a revised line of text.
 
-- Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus.
-- Phasellus viverra nulla ut metus varius laoreet.
-- Quisque rutrum.
+Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum.
 
-Section 3: Conclusion
-- Aenean imperdiet.
-- Etiam ultricies nisi vel augue.
-- Curabitur ullamcorper ultricies nisi.
-- Nam eget dui.
+Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui.
 
-Section 4: Additional Information
-- New line 2: Another new line for additional content.
+New line 2: Another new line for additional content.
 
